@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heuristic-statistics/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/heuristic-statistics/static/js/main.1893f0b8.chunk.js",
+    "main.js.map": "/heuristic-statistics/static/js/main.1893f0b8.chunk.js.map",
+    "runtime-main.js": "/heuristic-statistics/static/js/runtime-main.a079eb62.js",
+    "runtime-main.js.map": "/heuristic-statistics/static/js/runtime-main.a079eb62.js.map",
+    "static/js/2.7dc66bd9.chunk.js": "/heuristic-statistics/static/js/2.7dc66bd9.chunk.js",
+    "static/js/2.7dc66bd9.chunk.js.map": "/heuristic-statistics/static/js/2.7dc66bd9.chunk.js.map",
+    "static/js/3.4c898b0b.chunk.js": "/heuristic-statistics/static/js/3.4c898b0b.chunk.js",
+    "static/js/3.4c898b0b.chunk.js.map": "/heuristic-statistics/static/js/3.4c898b0b.chunk.js.map",
+    "index.html": "/heuristic-statistics/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/heuristic-statistics/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7dc66bd9.chunk.js.LICENSE.txt": "/heuristic-statistics/static/js/2.7dc66bd9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/heuristic-statistics/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a079eb62.js",
+    "static/js/2.7dc66bd9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1893f0b8.chunk.js"
+  ]
+}
